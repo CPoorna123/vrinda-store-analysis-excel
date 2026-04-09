@@ -19,6 +19,9 @@ The goal is to help the business make data-driven decisions for sales growth.
 - Excel Formulas (SUMIFS, COUNTIFS, VLOOKUP, IF)  
 - Slicers & Filters  
 
+## Dashboard
+<img width="1844" height="721" alt="Screenshot 2025-11-19 094846" src="https://github.com/user-attachments/assets/3bc561f4-b111-4dd4-a786-dd47e09b4396" />
+
 ## 📊 Key Insights
 
 ### **1️⃣ Monthly Sales Trend**
@@ -83,4 +86,12 @@ This dashboard can help in **better marketing strategy, inventory planning, and 
 ## 📎 Files Included
 - **Vrinda Store Data Analysis.xlsx**
 - README.md (this file)
+
+  ## Contact
+
+If you would like to discuss this project or opportunities in data analytics:
+
+Email: cpoorna964@gmail.com  
+LinkedIn: https://www.linkedin.com/in/c-poorna-b68aa0356  
+GitHub: https://github.com/CPoorna123
 
